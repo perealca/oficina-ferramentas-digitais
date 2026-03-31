@@ -2,7 +2,7 @@
 
 **Introdução** ✏️  
 
-Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realizada no [Uninta](https://www.uninta.edu.br/) da qual foram realizados o usos de algumas ferramentas digitais (Expostas logo abaixo) e apresentado algumas considerações acerca de temas como computação e as eventuais relações daqueles que realizaram o projeto com a mesma.  
+Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realizada no [Uninta](https://www.uninta.edu.br/) da qual foram realizados o usos de algumas ferramentas digitais (Expostas logo abaixo) e apresentando algumas considerações acerca de temas como computação e as eventuais relações daqueles que realizaram o projeto com a mesma.  
 
 **Ferramentas ultilizadas** ⚙️  
 
