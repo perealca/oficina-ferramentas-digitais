@@ -15,7 +15,11 @@ Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realiza
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleslides">
       <img alt="Google Slides" title="Google Slides" height="48" width="48" src="https://cdn.simpleicons.org/googleslides"></picture></a>
-      <a href="https://github.com/">
+      <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjg0ofmrMuTAxUhq5UCHUvbHYoQFnoECA0QAQ&url=https%3A%2F%2Fdocs.google.com%2F%3Fhl%3Dpt-BR&usg=AOvVaw2bnOdk693A7k50KTe1yVDN&opi=89978449">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googledocs">
+      <img alt="Google Docs" title="Google Docs" height="48" width="48" src="https://cdn.simpleicons.org/googledocs"></picture></a>
+  <a href="https://github.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>  
