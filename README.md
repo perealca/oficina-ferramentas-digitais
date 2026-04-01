@@ -26,7 +26,7 @@ Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realiza
 
 **Como acessar o material ?** 📖  
 
-Para acessar o material é muito simples, basta baixar os arquivos aqui mesmo no GitHub e acessar pelo seu computador ou por este [link](https://drive.google.com/drive/folders/1F2hoW6Y2kbgDg2G8b0hXDVdw6zmtVuaA?usp=drive_link), que lhe dará acesso ao conteúdo via Google Drive **(RECOMENDADO)**
+Para acessar o material é muito simples, basta baixar os arquivos aqui mesmo no GitHub e acessar pelo seu computador ou por este [link](https://drive.google.com/drive/folders/1F2hoW6Y2kbgDg2G8b0hXDVdw6zmtVuaA?usp=drive_link), que lhe dará acesso ao material via Google Drive **(RECOMENDADO)**
 
 **Autores** 👤  
 
