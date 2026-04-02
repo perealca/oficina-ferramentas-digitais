@@ -7,22 +7,22 @@ Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realiza
 **Ferramentas ultilizadas** ⚙️  
 
 <p align="center">
-  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXicm_8cqTAxXNv5UCHVYVPfQQFnoECAwQAQ&url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmy-drive%3Fhl%3Dpt-br&usg=AOvVaw3YT-jWhy6QZ0RtQ6LOkWb2&opi=89978449">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googledrive">
-      <img alt="Google Drive" title="Google Drive" height="48" width="48" src="https://cdn.simpleicons.org/googledrive"></picture></a>
-  <a href="https://docs.google.com/presentation/d/1gqJb_pFIpOAgoX2o3f8g0jhK51alpnk4cm2PF01GVF4/edit?slide=id.p#slide=id.p">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleslides">
-      <img alt="Google Slides" title="Google Slides" height="48" width="48" src="https://cdn.simpleicons.org/googleslides"></picture></a>
-      <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjg0ofmrMuTAxUhq5UCHUvbHYoQFnoECA0QAQ&url=https%3A%2F%2Fdocs.google.com%2F%3Fhl%3Dpt-BR&usg=AOvVaw2bnOdk693A7k50KTe1yVDN&opi=89978449">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googledocs">
-      <img alt="Google Docs" title="Google Docs" height="48" width="48" src="https://cdn.simpleicons.org/googledocs"></picture></a>
-  <a href="https://github.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>  
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXicm_8cqTAxXNv5UCHVYVPfQQFnoECAwQAQ&url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmy-drive%3Fhl%3Dpt-br&usg=AOvVaw3YT-jWhy6QZ0RtQ6LOkWb2&opi=89978449">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googledrive">
+<img alt="Google Drive" title="Google Drive" height="48" width="48" src="https://cdn.simpleicons.org/googledrive"></picture></a>
+<a href="https://docs.google.com/presentation/d/1gqJb_pFIpOAgoX2o3f8g0jhK51alpnk4cm2PF01GVF4/edit?slide=id.p#slide=id.p">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googleslides">
+<img alt="Google Slides" title="Google Slides" height="48" width="48" src="https://cdn.simpleicons.org/googleslides"></picture></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjg0ofmrMuTAxUhq5UCHUvbHYoQFnoECA0QAQ&url=https%3A%2F%2Fdocs.google.com%2F%3Fhl%3Dpt-BR&usg=AOvVaw2bnOdk693A7k50KTe1yVDN&opi=89978449">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googledocs">
+<img alt="Google Docs" title="Google Docs" height="48" width="48" src="https://cdn.simpleicons.org/googledocs"></picture></a>
+<a href="https://github.com/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+<img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>  
 
 **Como acessar o material ?** 📖  
 
