@@ -4,7 +4,7 @@
 
 Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realizada no [Uninta](https://www.uninta.edu.br/) da qual foram realizados o uso de algumas ferramentas digitais (Expostas logo abaixo) e apresentado algumas considerações acerca de temas como computação e as eventuais relações daqueles que realizaram o projeto com a mesma.  
 
-**Ferramentas ultilizadas** ⚙️  
+**Ferramentas utilizadas** ⚙️  
 
 <p align="center">
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXicm_8cqTAxXNv5UCHVYVPfQQFnoECAwQAQ&url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmy-drive%3Fhl%3Dpt-br&usg=AOvVaw3YT-jWhy6QZ0RtQ6LOkWb2&opi=89978449">
