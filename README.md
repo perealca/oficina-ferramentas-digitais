@@ -30,10 +30,10 @@ Para acessar o material é muito simples, basta baixar os arquivos aqui mesmo no
 
 **Autores** 👤  
 
-[Felipe Gustavo de Vasconcelos](https://github.com/otaldoazarel-svg)  
-[Luciano Caio Martins Neves](https://github.com/LucianoMart-s)  
-[Juan Lennon Soares](https://github.com/JLennon-Soares)  
-[Pedro Renan Alves Carneiro](https://github.com/perealca)
+- [Felipe Gustavo de Vasconcelos](https://github.com/otaldoazarel-svg)  
+- [Luciano Caio Martins Neves](https://github.com/LucianoMart-s)  
+- [Juan Lennon Soares](https://github.com/JLennon-Soares)  
+- [Pedro Renan Alves Carneiro](https://github.com/perealca)
 
 
 
