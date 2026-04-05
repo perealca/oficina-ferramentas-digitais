@@ -42,7 +42,8 @@ Para baixar algum arquivo no GitHub, clique e acesse o arquivo e posteriormente 
 </details>
 </details>
 <details>
-<summary><strong>Autores 👤</strong></summary>  
+<summary><strong>Autores 👤</strong></summary>
+<br>
 <ul>
 <li><a href="https://github.com/otaldoazarel-svg">Felipe Gustavo de Vasconcelos</a></li>
 <li><a href="https://github.com/LucianoMart-s">Luciano Caio Martins Neves</a></li>
