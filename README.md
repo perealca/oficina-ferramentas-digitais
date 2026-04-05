@@ -38,7 +38,7 @@ que lhe dará acesso ao material diretamente no próprio Google Drive <strong>(R
 <details>
 <summary><strong>Como baixar algo do Github</strong></summary>
 <br>
-Para baixar algum arquivo no GitHub, clique e acesse o arquivo e posteriormente aperte CTRL + SHIFT + S.
+Para baixar algum arquivo no GitHub, clique e acesse o arquivo e posteriormente aperte <strong>CTRL + SHIFT + S</strong>.
 </details>
 </details>
 <details>
