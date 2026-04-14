@@ -31,9 +31,7 @@ Neste repósitorio você irá encontrar conteúdos acerca de uma oficina realiza
 Para acessar o material é muito simples, basta baixar os arquivos aqui mesmo no GitHub e posteriormente acessar os arquivos pelo seu computador 
 <strong>(CASO VOCÊ TENHA ACESSO AO PACOTE OFFICE)</strong> ou você pode fazer o upload dos arquivos via 
 <a href="https://drive.google.com/drive">Google Drive</a> para ter uma melhor experiência na visualização dos mesmos 
-<strong>(CASO OPTE POR VER EM SEU COMPUTADOR, BAIXE O PDF DO ARQUIVO DE TEXTO AO INVÉS DO DOCX)</strong>. Além disso você pode acessar este: 
-<a href="https://drive.google.com/drive/folders/1F2hoW6Y2kbgDg2G8b0hXDVdw6zmtVuaA?usp=drive_link">link</a>, 
-que lhe dará acesso ao material diretamente no próprio Google Drive <strong>(RECOMENDADO)</strong>.
+<strong>(CASO OPTE POR VER EM SEU COMPUTADOR, BAIXE O PDF DO ARQUIVO DE TEXTO AO INVÉS DO DOCX)</strong>.
 <br><br>
 <details>
 <summary><strong>Como baixar algo do Github</strong></summary>
